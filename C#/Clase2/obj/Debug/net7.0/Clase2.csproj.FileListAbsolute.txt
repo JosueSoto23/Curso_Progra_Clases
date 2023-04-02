@@ -1,0 +1,15 @@
+D:\Proyectos\Curso C++ C#\C#\Clase2\bin\Debug\net7.0\Clase2.exe
+D:\Proyectos\Curso C++ C#\C#\Clase2\bin\Debug\net7.0\Clase2.deps.json
+D:\Proyectos\Curso C++ C#\C#\Clase2\bin\Debug\net7.0\Clase2.runtimeconfig.json
+D:\Proyectos\Curso C++ C#\C#\Clase2\bin\Debug\net7.0\Clase2.dll
+D:\Proyectos\Curso C++ C#\C#\Clase2\bin\Debug\net7.0\Clase2.pdb
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\Clase2.csproj.AssemblyReference.cache
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\Clase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\Clase2.AssemblyInfoInputs.cache
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\Clase2.AssemblyInfo.cs
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\Clase2.csproj.CoreCompileInputs.cache
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\Clase2.dll
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\refint\Clase2.dll
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\Clase2.pdb
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\Clase2.genruntimeconfig.cache
+D:\Proyectos\Curso C++ C#\C#\Clase2\obj\Debug\net7.0\ref\Clase2.dll
