@@ -16,7 +16,7 @@ static void exercise_one()
 }
 
 // 2. Elabore un programa que tome 2 números enteros y evalúe la operación guardada en una
-// variable, elabore, sumas y restas. (Se utilozan if y else en lugar de switch por requerimiento)
+// variable, elabore, sumas y restas. (Se utilizan if y else en lugar de switch por requerimiento)
 static void exercise_two()
 {
     int n1, n2, opr;
