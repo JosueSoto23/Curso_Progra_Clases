@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\Curso C++ C#\\C#\\Clase2\\Clase2.csproj": {}
+    "D:\\Proyectos\\Curso_Progra_Clases\\C#\\Clase2\\Clase2.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\Curso C++ C#\\C#\\Clase2\\Clase2.csproj": {
+    "D:\\Proyectos\\Curso_Progra_Clases\\C#\\Clase2\\Clase2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Curso C++ C#\\C#\\Clase2\\Clase2.csproj",
+        "projectUniqueName": "D:\\Proyectos\\Curso_Progra_Clases\\C#\\Clase2\\Clase2.csproj",
         "projectName": "Clase2",
-        "projectPath": "D:\\Proyectos\\Curso C++ C#\\C#\\Clase2\\Clase2.csproj",
+        "projectPath": "D:\\Proyectos\\Curso_Progra_Clases\\C#\\Clase2\\Clase2.csproj",
         "packagesPath": "C:\\Users\\deivy\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Curso C++ C#\\C#\\Clase2\\obj\\",
+        "outputPath": "D:\\Proyectos\\Curso_Progra_Clases\\C#\\Clase2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deivy\\AppData\\Roaming\\NuGet\\NuGet.Config",

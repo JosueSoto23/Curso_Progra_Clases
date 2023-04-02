@@ -52,7 +52,7 @@ static void exercise_two()
 static void exercise_three()
 {
     Console.WriteLine("Ingrese su nombre: ");
-    string name = Console.ReadLine();
+    string name = Console.ReadLine() ?? string.Empty;;
     Console.WriteLine("Ingrese su edad: ");
     int age = Convert.ToInt32(Console.ReadLine());
     Console.Clear();
